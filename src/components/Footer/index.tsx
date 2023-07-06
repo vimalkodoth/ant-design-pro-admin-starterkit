@@ -20,8 +20,8 @@ const Footer: React.FC = () => {
       copyright={`${currentYear} ${defaultMessage}`}
       links={[
         {
-          key: 'IIAI Admin',
-          title: 'IIAI Admin',
+          key: ' Admin',
+          title: ' Admin',
           href: '#',
           blankTarget: true,
         },

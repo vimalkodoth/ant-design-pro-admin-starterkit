@@ -17,7 +17,7 @@ const Settings: ProLayoutProps & {
   colorWeak: false,
   title: false,
   pwa: true,
-  logo: 'https://www.inceptioniai.org/_nuxt/img/iiai-logo-green.97b77c0.svg',
+  logo: 'https://www.inceptioniai.org/_nuxt/img/-logo-green.97b77c0.svg',
   iconfontUrl: '',
   token: {
     // 参见ts声明，demo 见文档，通过token 修改样式

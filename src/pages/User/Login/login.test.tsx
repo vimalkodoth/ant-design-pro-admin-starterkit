@@ -85,7 +85,7 @@ describe('Login Page', () => {
     // 等待接口返回结果
     await waitTime(5000);
 
-    await rootContainer.findAllByText('IIAI Admin');
+    await rootContainer.findAllByText(' Admin');
 
     expect(rootContainer.asFragment()).toMatchSnapshot();
 

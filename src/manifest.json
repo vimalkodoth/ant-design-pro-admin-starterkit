@@ -1,6 +1,6 @@
 {
-  "name": "IIAI Admin",
-  "short_name": "IIAI Admin",
+  "name": " Admin",
+  "short_name": " Admin",
   "display": "standalone",
   "start_url": "./?utm_source=homescreen",
   "theme_color": "#002140",

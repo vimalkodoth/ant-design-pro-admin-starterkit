@@ -1,6 +1,6 @@
-# IIAI Admin Dashboard FE based on Ant Design
+# Admin Dashboard + Ant Design PRO + TS
 
-This project is is a starter kit for ReactJS admin FE apps. Follow is the quick guide for how to use.
+This project is is a starter kit for ReactJS based admin dashboard with Ant Design Pro. Follow is the quick guide for how to use.
 
 ## Environment Prepare
 
@@ -18,7 +18,7 @@ yarn
 
 ## Provided Scripts
 
-IIAI Admin provides some useful script to help you quick start and build with web project, code style check and test.
+Project provides some useful script to help you quick start and build with web project, code style check and test.
 
 Scripts provided in `package.json`. It's safe to modify or add additional script:
 

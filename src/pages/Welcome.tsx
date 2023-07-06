@@ -114,7 +114,7 @@ const Welcome: React.FC = () => {
               color: token.colorTextHeading,
             }}
           >
-            IIAI Admin
+            Admin
           </div>
           <p
             style={{
@@ -126,7 +126,7 @@ const Welcome: React.FC = () => {
               width: '65%',
             }}
           >
-            IIAI Admin Ant Design Starter
+            Admin Ant Design Starter
           </p>
           <div
             style={{
@@ -138,19 +138,19 @@ const Welcome: React.FC = () => {
             <InfoCard
               index={1}
               href="https://umijs.org/docs/introduce/introduce"
-              title="IIAI Admin"
+              title=" Admin"
               desc="Design card"
             />
             <InfoCard
               index={2}
               href="https://umijs.org/docs/introduce/introduce"
-              title="IIAI Admin"
+              title=" Admin"
               desc="Design card"
             />
             <InfoCard
               index={3}
               href="https://umijs.org/docs/introduce/introduce"
-              title="IIAI Admin"
+              title=" Admin"
               desc="Design card"
             />
           </div>

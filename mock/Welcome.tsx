@@ -114,7 +114,7 @@ const Welcome: React.FC = () => {
               color: token.colorTextHeading,
             }}
           >
-            IIAI Admin
+            Admin
           </div>
           <p
             style={{
@@ -126,7 +126,7 @@ const Welcome: React.FC = () => {
               width: '65%',
             }}
           >
-            IIAI Admin Ant Design Starter
+            Admin Ant Design Starter
           </p>
           <div
             style={{
@@ -138,20 +138,20 @@ const Welcome: React.FC = () => {
             <InfoCard
               index={1}
               href="https://umijs.org/docs/introduce/introduce"
-              title="IIAI Template"
+              title=" Template"
               desc="de"
             />
             <InfoCard
               index={2}
-              title="了解 IIAI Admin"
+              title="了解  Admin"
               href="https://ant.design"
-              desc="antd 是基于 IIAI Admin 设计体系的 React UI 组件库，主要用于研发企业级中后台产品。"
+              desc="antd 是基于  Admin 设计体系的 React UI 组件库，主要用于研发企业级中后台产品。"
             />
             <InfoCard
               index={3}
               title="了解 Pro Components"
               href="https://procomponents.ant.design"
-              desc="ProComponents 是一个基于 IIAI Admin 做了更高抽象的模板组件，以 一个组件就是一个页面为开发理念，为中后台开发带来更好的体验。"
+              desc="ProComponents 是一个基于  Admin 做了更高抽象的模板组件，以 一个组件就是一个页面为开发理念，为中后台开发带来更好的体验。"
             />
           </div>
         </div>
